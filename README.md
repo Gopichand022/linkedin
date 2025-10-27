@@ -14,7 +14,8 @@ const INFO = {
   email: "gopisrinivas56@gmail.com",
   phone: "+1 8565179669",
   github: "https://github.com/your-github",
-  linkedin: "https://www.linkedin.com/in/your-linkedin/",
+  linkedin: "https://www.linkedin.com/in/gopi-chand-453a0537b/
+",
 };
 
 const SKILLS = [
